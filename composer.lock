@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "586fff771629946c38d29bf829091d57",
+    "packages": [
+        {
+            "name": "pasha234/timediff",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Pasha234/timediff.git",
+                "reference": "bf328ed815aeb8f4e7b370ed3393985815355c12"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Pasha234/timediff/zipball/bf328ed815aeb8f4e7b370ed3393985815355c12",
+                "reference": "bf328ed815aeb8f4e7b370ed3393985815355c12",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Pasha234\\TimeDiff\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Pasha234"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/Pasha234/timediff/issues",
+                "source": "https://github.com/Pasha234/timediff/tree/v1.0.0"
+            },
+            "time": "2025-02-17T14:42:36+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

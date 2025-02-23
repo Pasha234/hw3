@@ -1,0 +1,7 @@
+{
+    "name": "pasha234/testapp",
+    "type": "project",
+    "require": {
+        "pasha234/timediff": "^1.0"
+    }
+}
