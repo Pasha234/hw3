@@ -8,17 +8,20 @@
     "packages": [
         {
             "name": "pasha234/timediff",
-            "version": "v1.0.0",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Pasha234/timediff.git",
-                "reference": "bf328ed815aeb8f4e7b370ed3393985815355c12"
+                "reference": "a3bd4ac9e828937dd33b2266abc92bc2b25163cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Pasha234/timediff/zipball/bf328ed815aeb8f4e7b370ed3393985815355c12",
-                "reference": "bf328ed815aeb8f4e7b370ed3393985815355c12",
+                "url": "https://api.github.com/repos/Pasha234/timediff/zipball/a3bd4ac9e828937dd33b2266abc92bc2b25163cd",
+                "reference": "a3bd4ac9e828937dd33b2266abc92bc2b25163cd",
                 "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9"
@@ -37,9 +40,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Pasha234/timediff/issues",
-                "source": "https://github.com/Pasha234/timediff/tree/v1.0.0"
+                "source": "https://github.com/Pasha234/timediff/tree/v1.0.2"
             },
-            "time": "2025-02-17T14:42:36+00:00"
+            "time": "2025-02-24T07:38:10+00:00"
         }
     ],
     "packages-dev": [],
